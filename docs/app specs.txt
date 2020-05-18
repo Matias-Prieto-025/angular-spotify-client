@@ -1,0 +1,12 @@
+- Un home principal donde se presente un campo de texto para realizar una búsqueda y en el que al mismo tiempo se muestran las canciones que se han guardado como favoritas
+- En el campo de búsqueda se podrá digitar un nombre y en la parte inferior se deberán mostrar artistas que coinciden con el texto ingresado a modo de sugerencias, de esta forma el usuario podrá buscar un artista por su nombre, podrá observar los resultados de los artistas cuyos nombres coinciden con el término ingresado en la búsqueda y seleccionar el que considere más apropiado de la lista que se muestre como sugerencias.
+- Poder seleccionar uno de los artistas y a partir de ahí mostrar los álbumes del artista seleccionado en una pantalla nueva
+- Mostrar los álbumes de un artista específico y poder seleccionar el álbum deseado. En esta pantalla mostrar alguna información del albúm como una foto, el año de lanzamiento, géneros musicales, artistas que participan etc.
+- Al seleccionar el álbum mostrar las canciones que contiene dicho álbum en una pantalla diferente.
+- Cada canción debe mostrar su duración y debe tener la opción de poder ser agregada a favoritos y de poder escucharse un breve segmento de la misma.
+- El usuario podrá al seleccionar cualquiera de las canciones que se muestran en el home de la aplicación como favorita, tendrá la opción de ver el detalle de cada una y poder reproducir un segmento de la canción.
+- El usuario podrá eliminar canciones de favoritos
+- El usuario tendrá siempre la posibilidad de realizar una búsqueda por el nombre del artista en todas las pantallas.
+
+Los mockups están adjuntados. 
+Para consumir la API, registrate en Spotify Developers (https://developer.spotify.com/).

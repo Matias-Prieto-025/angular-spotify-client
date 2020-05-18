@@ -1,0 +1,18 @@
+.header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background-color: #191919;
+  color: white;
+  font-weight: 600;
+  padding: 0px 15px;
+}
+
+.brand-title {
+  margin-left: 15px;
+  font-size: 1.2rem;
+}
